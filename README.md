@@ -7,6 +7,11 @@ Edit github Readme file by Rohit Srivastava- 25th October 2020
  <img src="https://raw.githubusercontent.com/QARohitSrivastava/gitHub/main/Rohit%20Srivastava%20Logo.jpg" width="125" height="125" title="Rohit Srivastava" alt = "Rohit Srivastava" />
 </p>
 
-__italic Text__
+__Bold Text__
 
-## Bold Text
+## Link Text
+
+
+| First Name |  Last Name |
+|------------|------------|
+| Rohit      | Srivastava |
